@@ -37,7 +37,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/dost.git
+git clone https://github.com/shani-ydv/DOST_Project.git
 cd dost
 Open index.html in your browser:
 
